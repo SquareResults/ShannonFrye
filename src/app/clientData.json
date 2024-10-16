@@ -1,0 +1,129 @@
+{
+    "PortfolioPage": {
+        "logo": "./sf_logo.png",
+        "logo_alt": "Shannon Frye Web Portfolio Logo",
+        "linkedIn": "https://www.linkedin.com/in/shannon-frye",
+        "facebook": "",
+        "instagram": "",
+        "twitter": "",
+        "email": "bsfrye01@gmail.com",
+        "phone": "937-572-4581"
+    },
+    "Home": {
+        "firstName": "Shannon",
+        "lastName": "Frye",
+        "titles": [
+            "Project Manager/Project Coordinator/Stakeholder Management/Delivery Management",
+            "New Business Development/Account Management/Relationship Management",
+            "Training/Sales/Revenue Cycle Management/Physician and Provider Support"
+        ]
+    },
+    "About": {
+        "image": "./about/frye.jpg",
+        "image_alt": "Shannon Frye Portfolio Photo",
+        "title": "YOUR TITLE",
+        "title_sub": "Optional Subtitle",
+        "body": [
+            "With a strong foundation in both healthcare and non-healthcare industries, I have successfully navigated various roles, honing my skills in project management, strategic planning, operations management, and business development.",
+            "My career journey began with a focus on healthcare administration, working as an Administrative Resident at ProMedica Health System and subsequently in the strategic planning department at Flower Hospital. This experience sparked a passion for ambulatory care management, leading me to transition into medical operations management."
+            
+        ],
+        "para1": "Over the years, I have developed expertise in project management, human resources, new business development, training, and organizational change. I have successfully managed a diverse range of medical practices, including orthopedics, cardiology, women's health, and family practice. During this time I led projects including multiple computer conversions as well a new telecommunications transformation.",
+        "para2":  "While transitioning into pharmaceutical sales due to family commitments, I continued to enhance my hard and soft skills. I gained valuable experience in project management, training, business development, and sales, while also cultivating strong stakeholder relationships. Here I was able to have to help design training skills that included office staff and physicians. At the same time as winning many sales awards I was also supporting the team by being the regional training specialist that included  rolling out new CRM as well as continuing education programs.",
+        "para3": "My role as a Physician Relations Manager at Premier Health Systems allowed me to leverage my skills in strategy development and implementation to promote the system's product lines. This position further refined my abilities as a project and account manager, including regular interactions and presentations with C-suite executives. It is here where I led projects including the creation of new provider onboarding processes, expansion of premier blood and cancer center, and creation of an orthopedic urgent care.",
+        "para4": "My subsequent role as an Account Executive at TEKsystems focused on supporting the company's core application vertical. I successfully managed project management, scrum and agile, and IT support for nine accounts, solidifying my commitment to a career in project management. I am currently pursuing ongoing education to prepare for the Certified Associate in Project Management (CAPM) and Project Management Professional (PMP) certifications. Additionally, I am exploring scrum and agile methodologies to expand my project management toolkit.",
+        "bg_image": "./about/chart.jpg",
+        "bg_image_alt": "Your Picture Here",
+        "whoami_box1": [
+            "Nulla posuere sollicitudin aliquam ultrices sagittis orci a. Iaculis eu non diam phasellus vestibulum lorem sed.",
+            "Cursus eget nunc scelerisque viverra mauris in aliquam.",
+
+            "<ul><li>Pellentesque elit eget.</li>Adipiscing at in tellus integer feugiat.<li>Facilisis gravida neque convallis a cras semper auctor.</li></ul>"
+
+        ]
+    },
+    "Leadership": {
+        "title": "Expertise",
+        "list_of_skills": [
+            "Project Management",
+            "project coordination",
+            "deliverable management",
+            "requirement analysis",
+            "training",
+            "change management",
+            "conflict resolution",
+            "cross functional team management-motivation and leadership",
+            "excels in personal communication"
+       
+        ],
+        "leadership_para_title": "Operational Excellence and Business Growth.",
+        "leadership_para": "Neque convallis a cras semper auctor neque vitae. Viverra accumsan in nisl nisi. Fermentum odio eu feugiat pretium nibh. Faucibus purus in massa tempor nec feugiat nisl pretium. Porttitor rhoncus dolor purus non enim praesent elementum facilisis leo. Pharetra et ultrices neque ornare aenean euismod."
+    },
+    "Skillset": {
+        "title": "Skills", 
+        "grid1_txt": "Organization",
+        "grid2_txt": "Management",
+        "grid3_txt": "Business analysis",
+
+        "grid4_txt": "Requirement gathering",
+        "grid5_txt": "Training",
+        "grid6_txt": "Communication",
+
+        "grid7_txt": "Comfortable with all audiences",
+        "grid8_txt": "Motivation",
+        "grid9_txt": "Managing up"
+
+    },
+    "Education": {
+        "title": "Education and Certifications.",
+        "data": [
+            {
+                "img": "/school/marshall.png",
+                "img_alt": "Marshall University",
+                "year": "",
+                "school": "Marshall University",
+                "institutions": "Marshall University",
+                "sub_text": "",
+                "degree": "Health Care Management",
+                "location": "Huntington, WV ",
+                "link": ""
+            },
+            {
+                "img": "/school/xavier.jpg",
+                "img_alt": "Xavier University",
+                "year": "",
+                "school": "Xavier University",
+                "institutions": "Xavier University",
+                "sub_text": "now health services administration MHSA",
+                "degree": "Masters Health Care Administration MHA",
+                "location": "",
+                "link": ""
+            },
+            {
+                "img": "/school/csu.png",
+                "img_alt": "Central State University",
+                "year": "",
+                "school": "Central State University",
+                "institutions": "Central State University",
+                "sub_text": "",
+                "degree": "IBM Project Management Certification",
+                "location": "",
+                "link": ""
+            },
+            {
+                "img": "/school/global_lynx.png",
+                "img_alt": "Global Lynx Logo",
+                "year": "",
+                "school": "Global Lynx ",
+                "institutions": "Global Lynx ",
+                "sub_text": "",
+                "degree": "Scrum/Agile Basics",
+                "location": "",
+                "link": ""
+            }
+        ]
+    },
+    "Contact": {
+        "email": "bsfrye01@gmail.com"
+    }
+}
