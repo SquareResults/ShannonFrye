@@ -94,8 +94,8 @@ const PortfolioPage = () => {
       subMenuItems: [
         { id: 21, title: 'Leadership', ref: leadershipRef },
         { id: 22, title: 'Skill Set', ref: skillsetRef },
-        { id: 23, title: 'Tools', ref: buildingteamsRef },
-        { id: 24, title: 'Management & Experience Summary', ref: buildingteamsRefs.managementsummaryRef },
+        // { id: 23, title: 'Tools', ref: buildingteamsRef },
+        // { id: 24, title: 'Management & Experience Summary', ref: buildingteamsRefs.managementsummaryRef },
       ],
     },
     // {
