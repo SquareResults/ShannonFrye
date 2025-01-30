@@ -297,7 +297,7 @@ const PortfolioPage = () => {
             display: 'flex',
             flexDirection: 'column',
           }}>
-              <a href='./ShannonFrye.pdf' target='_blank'><h1 style={{marginBottom: '5%'}}>Resume Download. <MdDownloadForOffline /></h1></a>
+              <a href='./SF.docx.pdf' target='_blank'><h1 style={{marginBottom: '5%'}}>Resume Download. <MdDownloadForOffline /></h1></a>
             </div>
         </section>
         <FooterSection />
