@@ -19,20 +19,14 @@ const JoblistComponent = () => {
             company: "TEKsystems",
             dates: "Sept 2022 - Present",
             job_description: [
-                `Responsible for growing and maintaining 10 accounts focusing in the healthcare and manufacturing verticals; acting as
-                the liaison between the account and TEKsystems’ IT services and functional role offerings. Essential duties of the job
-                included:`
+                `Responsible for growing and maintaining 10 accounts focusing in the healthcare and manufacturing verticals; acting as the liaison between the account and TEKsystems’ IT services and functional role offerings. Experience includes:`
             ],
             skillset: "yes",
             skill_title: "",
             listofskills: [
-                `Fostering and growing relationships with key stakeholders including Individual Contributors, Managers,
-                Directors, and C-suite Executives.`,
-                `Partnering with key stake holders to understand business drivers and present the best solution to help
-                resolve pain points as well as supporting TEKsystems financial goals by including TEK Global Solutions in
-                solution offering.`,
-                `Working with accounts to offer the best staffing augmentation solutions for IT services and Functional roles.`,
-                `Bringing value to accounts by researching IT trends and educating partners using the most current data on the market.`
+                `Establishment and growing relationships with key stakeholders at all levels of the organization, from Individual Contributors to C-suite Executives, to build trust and facilitate effective partnerships`,
+                `Working closely with key stakeholders to gain better understanding of business drivers and challenges. Presenting tailored solutions that leveraged TEK's strategic partnerships with AWS, Google Cloud, Microsoft, Red Hat, ServiceNow, and Snowflake to effectively address pain points.`,
+                `Enhancing account value by providing insights into IT trends and educating partners on market developments including DE&I initiatives.`
             ],
         },
         {
@@ -43,43 +37,33 @@ const JoblistComponent = () => {
             company: "Premier Health Partners",
             dates: "April 2021 - Sept 2022",
             job_description: [
-                `As the Physician Relations Manager for both Upper Valley Medical Center (Troy, OH) and Miami Valley Hospital North
-                (Dayton, OH.) I was responsible for establishing and growing strategic relationships between physicians and
-                hospital/system administration. Summary of experiences include:`
+                `As a Physician Relations/Project Manager I responsible for:`
             ],
             skillset: "yes",
             skill_title: "",
             listofskills: [
-                `Setting up the process for onboarding of new providers to Premier Health. Leading the collaboration between
-                invested departments to ensure new provider(s) will be able to start treating patients on time and with minimal
-                interruptions.`,
-                `Provided timely, effective, and professional communication of the progress of each project with the appropriate
-                hospital leadership.`,
-                `Coordinating with team members for preparation and facilitation, documentation of decisions, up-to-date
-                documentation of task completion, and ongoing communication to monitor assignments including using Microsoft
-                Teams to ensure appropriate follow up. `,
-                `Providing leadership, guidance and direction to new managers, providers, and staff in transitioning offices.`,
-                `Supported a variety of projects including creation and launching Premier Ortho Urgent Care and Premier Blood
-                and Caner Center - Troy, OH location.`
+                `Ensuring clear and concise communications between independent providers and Premier Health Partners.`,
+                `Establishing and growing strategic relationships between providers and hospital/system administration.`,
+                `Coordinating efforts to align stakeholder expectations, streamline communication channels, and enhance collaboration to meet expectations.`,
+                `Leading initiatives to improve physician engagement, facilitated regular consultations, and addressed complex issues impacting healthcare delivery.`,
+                `Developing and implementing comprehensive outreach programs and maintaining an extensive network of professional contacts to drive continuous improvement and operational excellence.`
             ],
         },
         {
             img_logo: "./jobs/novo.png",
             img_alt: "NovoNordisk, LLC",
             img_style:  '',
-            jobtitle: "Senior Diabetes Sales Specialist",
+            jobtitle: "Senior Diabetes Care Specialist",
             company: "NovoNordisk, LLC",
             dates: "Nov 2010 - Jan 2021",
             job_description: [
-                `Worked entire Dayton-Metro and surrounding areas to efficiently promote Novo Nordisk’s entire Diabetes Portfolio (4 diabetes medications.) Successfully launched 3 blockbuster Diabetes therapies.`
+                `Territory entrepreneur that led a logistics strategy for launching three blockbuster (over $100 million in sales) drugs by developing a plan of identifying stakeholders, tracking results, and adapting changes as needed that resulted in a quick uptake by district thought leaders.`
             ],
             skillset: "yes",
             skill_title: "",
             listofskills: [
-                "Winner of Area Circle of Excellence (COE) Award, exclusively given to Top 10% - 13% of company’s highest achievers.", 
-                "Partnered with key stakeholders within both hospital affiliated and non-hospital affiliated health systems, creating strong partnerships through account-based selling, which helped increase office access, market share, and volume in respective accounts.",
-                "Expertly trained medical office staff in diabetic solutions with a focus on medical injectable/device usage and diabetes education, resulting in greater provider access and uptake of Novo Nordisk’s Diabetes Portfolio.",
-                "Collaborated and partnered with internal decision makers of independent practices and key offices to implement initiatives, increasing growth of Diabetes Portfolio as well as helping practices meet quality / patient wellness outcome goals.",
+                "Collaborated with internal decision makers of independent practices and key offices to implement initiatives, increasing the growth of Diabetes Portfolio as well as helping practices meet quality care and financial deliverables.", 
+                "As a regional CRM expert, supported internal stakeholders' business acumen and professional growth by providing guidance on utilizing Novo Nordisk's business and learning systems.",
             ],
         },
         {
@@ -90,14 +74,13 @@ const JoblistComponent = () => {
             company: "AstraZeneca Pharmaceuticals",
             dates: "Feb 2001 - Sept 2010",
             job_description: [
-                "Promoted AstraZeneca’s Cardiovascular, GI, and Metabolic product lines with 8 products. Successfully launched 3 blockbuster Cardiovascular and Diabetes therapies."
+                "In the role District Business Analyst, developed and implemented new business opportunities, researching and conveying actionable insights of trends resulting in better portfolio opportunities, stakeholder dynamics, and understanding of competitive environment. "
             ],
             skillset: "yes",
             skill_title: "",
             listofskills: [ 
-                "Rated in Top 5% of Area when launching Onglyza, Crestor, and Pulmicort Respules new products.",
-                "Developed and implemented new business opportunities for Dayton District (10 representatives) by serving as Dayton District Business Analyst, researching and conveying insights regarding portfolio opportunities, market dynamics, and the competitive environment.",
-                "Winner Nexium Purple Pinnacle Award – This is awarded to teams that reached a milestone of having a 50% market share or greater.",
+                "Served as the District Training Champion, collaborating with the training department to implement and execute training initiatives at the district level. Additionally, traveled to the regional business center and national headquarters to provide training to newly hired representatives.",
+                "Selected by the Regional Manager to be a member of the Field Focus Group that worked alongside regional and national sales leaders. Contributed to the improvement of the organization's sales force effectiveness by testing and providing feedback on sales initiatives and support tools.",
             ]
         },
         {
@@ -108,16 +91,13 @@ const JoblistComponent = () => {
             company: "OrthoNeuro",
             dates: "",
             job_description: [
-                "Managed the daily operations of OrthoNeuro’s multiple medical practice locations. Duties included:",
+                "Researching local national and local market trends to support recommended new business ventures for capital investment consideration. This included investing in rehabilitation services as well as time-share for MRI services.",
             ],
             skillset: "yes",
             skill_title: "",
             listofskills: [
-                "Managed the workflow of 61 Full Time Equivalents at four offices",
-                "Functioned as the liaison between OrthoNeuro and the Orthopedic and Neurological Institute, a collaboration between OrthoNeuro and Ohio Health’s Doctors’ Hospital North.",
-                "Responsible for the daily operations of OrthoNeuro’s ancillary services including OrthoNeuro’s Center for Physical Therapy.",
-                "Assisted in the development of the operational plan for OrthoNeuro’s Center of Imaging. The Center for Imaging was OrthoNeuro’s MRI facility.",
-                "Improved and implemented the organization’s entire human resource structure including the practice’s policies and procedures and employee handbook.",
+                "Working with variety of stakeholders to successfully implement, monitor, and adapt programs/projects to ensure success including leading two full medical records and revenue cycle computer conversions. This also included working with internal stakeholders and external vendors to keep the project on time, on schedule, and on budget.",
+                "Regularly met with C-suite Executives to present project/deliverable progression and incorporate any suggestions into project",
             ],
         },
         {
